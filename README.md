@@ -36,3 +36,9 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 CI check: added on <5-11-2025>
+
+## CI/CD Status
+
+![CI](https://github.com/abtvenkat/NoteFlow/ci.yml/badge.svg)
+[![Vercel](https://vercelbadge.vercel.app/api/abtvenkat/noteflow)](https://noteflow-sandy.vercel.app/)
+
